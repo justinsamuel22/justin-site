@@ -1,5 +1,7 @@
 # Justin Samuel - Personal Website
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=justinsamuel22_justin-site&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=justinsamuel22_justin-site)
+
 Hello! This repo contains the files that make up my personal website. Pretty cool right?
 
 - ⚡ Built using **Vite**, **React**, and **TypeScript**
