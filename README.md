@@ -9,7 +9,7 @@ Hello! This repo contains the files that make up my personal website. Pretty coo
 - 🎨 **Tailwind CSS** for the UI
 - 🔐 Makes use of CI/CD
 - ☁️ Deployed via **Cloudflare Pages** with automatic GitHub integration
-- 🌍 Live at [justinsamuel.pages.dev](https://justinsamuel.pages.dev)
+- 🌍 Live at <a href="https://justinsamuel.pages.dev" target="_blank">justinsamuel.pages.dev</a>
 
 ## 🚧 Work In Progress
 
