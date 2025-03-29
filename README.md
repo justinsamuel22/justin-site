@@ -2,7 +2,7 @@
 
 Hello! This repo contains the files that make up my personal website. Pretty cool right?
 
-- ⚡ **Vite** + **React** + **TypeScript**
+- ⚡ Built using **Vite**, **React**, and **TypeScript**
 - 🎨 **Tailwind CSS** for the UI
 - 🔐 Makes use of CI/CD
 - ☁️ Deployed via **Cloudflare Pages** with automatic GitHub integration
