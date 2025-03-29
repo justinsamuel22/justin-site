@@ -2,6 +2,7 @@
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=justinsamuel22_justin-site&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=justinsamuel22_justin-site)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=justinsamuel22_justin-site&metric=bugs)](https://sonarcloud.io/summary/new_code?id=justinsamuel22_justin-site)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=justinsamuel22_justin-site&metric=coverage)](https://sonarcloud.io/summary/new_code?id=justinsamuel22_justin-site)
 
 Hello! This repo contains the files that make up my personal website. Pretty cool right?
 
