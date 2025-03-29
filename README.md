@@ -1,6 +1,7 @@
 # Justin Samuel - Personal Website
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=justinsamuel22_justin-site&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=justinsamuel22_justin-site)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=justinsamuel22_justin-site&metric=bugs)](https://sonarcloud.io/summary/new_code?id=justinsamuel22_justin-site)
 
 Hello! This repo contains the files that make up my personal website. Pretty cool right?
 
@@ -8,7 +9,7 @@ Hello! This repo contains the files that make up my personal website. Pretty coo
 - 🎨 **Tailwind CSS** for the UI
 - 🔐 Makes use of CI/CD
 - ☁️ Deployed via **Cloudflare Pages** with automatic GitHub integration
-- 🌍 Live at [justinsamuel.net](https://justinsamuel.net)
+- 🌍 Live at [justinsamuel.pages.dev](https://justinsamuel.pages.dev)
 
 ## 🚧 Work In Progress
 
