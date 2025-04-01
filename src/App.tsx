@@ -55,9 +55,7 @@ function App() {
       <div className="text-left w-full md:w-1/2 justify-center flex flex-col mx-auto mt-4 px-4 md:px-8 space-y-4">
         <p>
           I am a Vulnerability Analyst in the final year of my degree apprenticeship, with
-          experience in vulnerability management and application security. At Virgin Money, I work
-          with tools like Qualys for vulnerability scanning, and SonarQube and Sonatype IQ Server
-          for application security testing and software composition analysis. My focus is on
+          experience in vulnerability management and application security. My focus is on
           identifying and analysing security vulnerabilities in software and systems to enhance
           organisational security posture.
         </p>
